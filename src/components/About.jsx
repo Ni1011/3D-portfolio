@@ -44,16 +44,19 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] "
       >
-        I am a skilled software developer specializing in TypeScript and
-        JavaScript, with expertise in frameworks like React, Node.js, and
-        Three.js. With a strong academic background and practical experience in
-        web development, I am committed to creating efficient, scalable, and
-        user-friendly solutions. Through effective collaboration with clients, I
-        aim to bring their ideas to life and solve real-world problems. My
-        passion for continuous learning and problem-solving drives me to stay
-        updated with the latest industry trends and deliver exceptional results.
-        Let's work together to create innovative solutions and make a positive
-        impact.
+        I am highly skilled computer engineering student with a
+        strong academic foundation and practical expertise in web development.
+        Specializing in TypeScript and JavaScript, he excels in renowned
+        frameworks like React, Node.js, and Three.js. Nitesh's project portfolio
+        reflects his ability to create efficient and user-friendly web
+        applications, demonstrating proficiency across various technologies and
+        frameworks. His dedication extends to real-world experiences gained
+        through internships, where he has contributed to software testing and
+        frontend web development. Nitesh's commitment to effective
+        collaboration, continuous learning, and problem-solving ensures he
+        delivers exceptional results, making him the ideal choice for innovative
+        and impactful solutions in the realm of computer engineering and web
+        development.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10 ">
         {services.map((service, index) => (
